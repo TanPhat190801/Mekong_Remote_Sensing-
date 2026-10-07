@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/plugins/MeKong_Remote_Sensing" >
+        <file>icon.png</file>
+    </qresource>
+
+    <qresource prefix="/nen" >
+        <file>icon.png</file>
+        <file>stylesheet.qss</file>
+    </qresource>
+</RCC>
